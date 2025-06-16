@@ -1,7 +1,7 @@
 # Spatially Explicit Battery Recycling Environmental Impact Analysis
 
 This repository contains code and data for the research paper:  
-**"Heterogeneity in China's battery recycling industry requires a spatially and technologically explicit environmental impact management strategy"**
+**"Tian, Xi; Peng, Fei; Liu, Yaobin; McKechnie, Jon; Abdul-Manan, Amir; Meng, Fanran (2025). Heterogeneity in China’s battery recycling industry requires a spatially and technologically explicit environmental impact management strategy. figshare. Dataset. https://doi.org/10.6084/m9.figshare.29310503"**
 
 > **Important**: All code and data are located in the `main` branch
 
