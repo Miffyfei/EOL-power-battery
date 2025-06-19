@@ -1,8 +1,5 @@
 # EOL Power Battery Recycling
 
-This repository contains code and data for the research paper:  
-**"Tian, Xi; Peng, Fei; Liu, Yaobin; McKechnie, Jon; Abdul-Manan, Amir; Meng, Fanran (2025). "EOL battery recycling industry……"**
-
 > **Important**: All code and data are located in the `main` branch
 
 ## Overview
