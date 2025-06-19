@@ -1,7 +1,7 @@
 # Spatially Explicit Battery Recycling Environmental Impact Analysis
 
 This repository contains code and data for the research paper:  
-**"Tian, Xi; Peng, Fei; Liu, Yaobin; McKechnie, Jon; Abdul-Manan, Amir; Meng, Fanran (2025). Heterogeneity in China’s battery recycling industry requires a spatially and technologically explicit environmental impact management strategy."**
+**"Tian, Xi; Peng, Fei; Liu, Yaobin; McKechnie, Jon; Abdul-Manan, Amir; Meng, Fanran (2025). "EOL battery recycling industry……"**
 
 > **Important**: All code and data are located in the `main` branch
 
@@ -16,7 +16,7 @@ This work is licensed under Creative Commons Attribution 4.0 International (CC B
 ## Contact
 For technical inquiries and collaboration:
 
-Prof. Fan Meng: f.meng@sheffield.ac.uk
+Prof. Fanran Meng: f.meng@sheffield.ac.uk
 
 Prof. Xi Tian: tianxi@ncu.edu.cn
 
