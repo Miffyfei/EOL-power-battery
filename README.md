@@ -49,7 +49,7 @@ Python 3.10.12
 ## License
 This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). When using this code, please cite the original publication.
 
-## Contact
+> ** Contact**
 For technical inquiries and collaboration:
 
 Prof. Fanran Meng: f.meng@sheffield.ac.uk
