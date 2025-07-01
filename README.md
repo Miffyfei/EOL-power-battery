@@ -40,7 +40,7 @@ scipy == 1.10.1           # Statistical functions
 geopandas == 0.12.2       # Spatial analysis
 rasterio == 1.3.7         # Geospatial raster I/O
 matplotlib == 3.7.1       # Visualization
-
+```
 
 ### Tested Python Versions:
 Python 3.8.16 (recommended)
