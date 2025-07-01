@@ -46,6 +46,7 @@ matplotlib == 3.7.1       # Visualization
 Python 3.8.16 (recommended)
 Python 3.9.18
 Python 3.10.12
+Python 3.11.3
 
 
 ## License
